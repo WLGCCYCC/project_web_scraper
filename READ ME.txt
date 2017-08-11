@@ -1,0 +1,28 @@
+Note:
+1. This program runs under python 3.
+
+2. Module list:
+	requests
+	math
+	bs4(beautiful soup)
+	xlsxwriter
+(Please make sure that you have all of the modules correctlly installed.)
+
+3. run using command line:
+	
+	python project_web_scraper.py
+
+4. Make sure abbrev_to_state.py and city_to_state.py are under the same directory with project_web_scaper.py
+
+5. The result xlsx file will be produced under the working directory.
+
+6. Important: Theoretically, it can collect all the firms within a state.
+
+However, I only test it by searching for all the firms within RI, which is a relatively small state.
+
+If you try to search entire CA, GOOD LUCK!
+
+
+
+
+
